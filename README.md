@@ -1,4 +1,4 @@
-# DSO
+# Donkey and smuggler optimization algorithm (DSO)
 
 %Cite as :
 %A.S. Shamsaldin, T.A. Rashid, R.A. Al-Rashid Agha, N.K. Al-Salihi, M. Mohammadi (2019). Donkey and Smuggler Optimization Algorithm: A Collaborative Working Approach to Path Finding, 
